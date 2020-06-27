@@ -2,6 +2,7 @@
   - The ANN system takes an input of a group of people. It compares their age, credit score, geography, gender, salary, and more to determine if a bank sahould grant this person a loan. After learning the sample size, it provides the accuracy of its predictions. Run the "ann.py" file.
 # CNN
   - The database the CNN uses to learn is too large to upload to github. If you are interested in training the CNN, here is a download link for the database. Put it in the same directory as the rest of the files. Depending on how powerful your computer is, it could take a long time to train it.
+  - https://drive.google.com/drive/folders/1QDjea8-e0B1ir7pl-utUL_4mEx90SoFB?usp=sharing
 # RNN
   - The RNN tries to predict the future stock of Google based on how well it has done in the past.
 Put dataset directly into "Convolutional Neural Network" folder
